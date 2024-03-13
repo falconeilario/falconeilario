@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @falconeilario
-- 👀 I’m interested in web development, data science, IoT and a lot of other stuff!
+- 👀 I’m interested in data science, web development, IoT and a lot of other stuff!
 - 🌱 I’m currently attending CoGrammar Skills Bootcamp in Data Science and Meta Front-End Developer Professional Certificate course on Coursera.
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
