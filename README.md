@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ilario Falcone
-🚀 I'm a dynamic digital marketer with over eight years of experience, currently delving into the realm of Data Science.
+🚀 I'm a Digital mMrketer with over eight years of experience, currently delving into the realm of Data Science.
 
 💻 I’m passionate about Data Analysis, Data Visualization, Web Development and IoT.
 
