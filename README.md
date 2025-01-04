@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ilario Falcone
-- 🚀 I'm a Digital Marketer with over eight years of experience, currently delving into the realm of Data Science
+- 🚀 I'm a Marketing & Sales Operations specialist with over nine years of experience, currently delving into the realm of Data Science
 - 💻 I’m passionate about Data Analysis, Data Visualization, Web Development and IoT
 - 🌱 I successfully completed the [CoGrammar Skills Bootcamp in Data Science](https://skills.cogrammar.com/)
 - 📫 How to reach me: feel free to contact me on my [LinkedIn profile](https://www.linkedin.com/in/ilariofalcone/)
