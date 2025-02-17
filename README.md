@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ilario Falcone
-- 🚀 I'm a Marketing & Sales Operations specialist with over nine years of experience, currently delving into the realm of Data Science
+- 🚀 I'm a Marketing & Sales Operations specialist with ten years of experience, currently delving into the realm of Data Science
 - 💻 I’m passionate about Data Analysis, Data Visualization, Web Development and IoT
 - 🌱 I successfully completed the [CoGrammar Skills Bootcamp in Data Science](https://skills.cogrammar.com/), the [IBM Introduction to Data Analytics course](https://www.coursera.org/account/accomplishments/records/AG5POXUBP7CT) and the [FreeCodeCamp Responsive Web Design
 Developer Certification course](https://www.freecodecamp.org/certification/falconeilario/responsive-web-design)
